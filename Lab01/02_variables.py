@@ -18,8 +18,3 @@ some_number = 42
 print("Some number as int: " + str(type(some_number)))
 
 
-print("Some number as boolean: " + str(type(some_number)))
-some_number = 42
-print("Some number as int: " + str(type(some_number)))
-
-
